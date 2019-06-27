@@ -252,3 +252,8 @@ GFW版本支持IP路由模式和GFW列表模式，需卸载原有的dnsmasq，�
   [7]: https://github.com/bettermanbao/openwrt-kcptun/releases 
   [8]: http://iytc.net/tools/pand.rar 
   [S]: https://wiki.openwrt.org/doc/howto/obtain.firmware.sdk
+
+
+
+
+2019年6月27日 修订Makefile( PPKG_SOURCE_URL:=https://github.com/shadowsocks/shadowsocks-libev    PKG_SOURCE_VERSION:=42d4cb1c8b1ea82e82a460da8af99345b370a38b),(PKG_SOURCE_VERSION可git clone后git log查看）
